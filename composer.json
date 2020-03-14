@@ -1,0 +1,15 @@
+{
+    "name": "sam/simple-ns",
+    "type": "project",
+    "require": {
+        "php": "^7.2",
+        "yswery/dns": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "SimpleNs\\": ""
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
